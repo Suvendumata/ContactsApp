@@ -162,8 +162,8 @@ Shows the selected contact's information and available actions.
 
 ### Test Case 1: Contacts Permission
 
-- **USN:** 25MCAR0108
-- **Name:** Md Atiullah Ansari
+- **USN:** 25MCAR0136
+- **Name:** Suvendu Mata
 - **Procedure:** Launch the application and tap the Grant button.
 - **Expected Output:** Android requests Contacts permission. After permission is granted, the application can access device contacts.
 - **Screenshot:** `Screenshots/AndroidManifest.png`
@@ -204,6 +204,3 @@ This experiment demonstrates how Android applications use the Contacts Content P
 
 ---
 
-## GitHub Repository
-
-[ContactsApp Repository](https://github.com/Atiullah18/ContactsApp)
